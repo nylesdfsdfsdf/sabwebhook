@@ -1,0 +1,12 @@
+{
+  "name": "snowies-ai-helper-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node snowies-ai-backend.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
